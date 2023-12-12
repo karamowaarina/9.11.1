@@ -1,0 +1,24 @@
+body {
+    background-color: beige;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.container {
+    color: rgb(25, 11, 9);
+}
+
+.card-body {
+    background-color: rgb(245, 241, 241);
+}
+
+.card-header, .card-footer {
+    background-color: rgb(255, 252, 165);
+}
+
+#generation.btn.btn-success {
+    margin-right: 20px;
+}
+
+#clear.btn.btn-danger {
+    margin-left: 20px;
+}
